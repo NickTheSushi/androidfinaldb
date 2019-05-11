@@ -10,9 +10,11 @@
 		"title": "Talon of the Hawk",
 		"artist": "The Front Bottoms"
 	},
+    {
 		"id": 3,
 		"title": "By the Lamplight",
-		"artist": "Larry and His Flask"
+		"artist": "The Larry and His Flask"
+    	}
 	],
 	"songs":[
 		{
