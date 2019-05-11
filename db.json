@@ -1,0 +1,47 @@
+{
+	"albums":[
+	{
+		"id": 1,
+		"title": "Rented World",
+		"artist": "The Menzingers"
+	},
+	{
+		"id": 2,
+		"title": "Talon of the Hawk",
+		"artist": "The Front Bottoms"
+	},
+		"id": 3,
+		"title": "By the Lamplight",
+		"artist": "Larry and His Flask"
+	],
+	"songs":[
+		{
+			"songTitle": "Rodent",
+			"albumID": 1
+		},
+		{
+			"songTitle": "My Friend Kyle",
+			"albumID": 1
+		},
+		{
+			"songTitle": "In Remission",
+			"albumID": 1
+		},
+		{
+			"songTitle": "Au Revoir (Adios)",
+			"albumID": 2
+		},
+		{
+			"songTitle": "Twin Size Mattress",
+			"albumID": 2
+		},
+		{
+			"songTitle": "Pandemonium",
+			"albumID": 3
+		},
+		{
+			"songTitle": "Barleywine Bump",
+			"albumID": 3
+		}	
+	]
+}
