@@ -10,10 +10,30 @@
 		"title": "Talon of the Hawk",
 		"artist": "The Front Bottoms"
 	},
-    {
+    	{
 		"id": 3,
 		"title": "By the Lamplight",
 		"artist": "The Larry and His Flask"
+    	},
+	{
+		"id": 4,
+		"title": "Rogue Taxidermy",
+		"artist": "Days n Daze"
+    	},
+	{
+		"id": 5,
+		"title": "Awkward Breeds",
+		"artist": "The Sidekicks"
+    	},
+	{
+		"id": 6,
+		"title": "Schmaltz",
+		"artist": "Spanish Love Songs"
+    	},
+	{
+		"id": 7,
+		"title": "Morbid Stuff",
+		"artist": "PUP"
     	}
 	],
 	"songs":[
