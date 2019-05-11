@@ -34,6 +34,21 @@
 		"id": 7,
 		"title": "Morbid Stuff",
 		"artist": "PUP"
+    	},
+	{
+		"id": 8,
+		"title": "Swell",
+		"artist": "Tiny Moving Parts"
+    	},
+	{
+		"id": 9,
+		"title": "Moved On",
+		"artist": "Coffee Project"
+    	},
+	{
+		"id": 10,
+		"title": "The Bible 2",
+		"artist": "AJJ"
     	}
 	],
 	"songs":[
